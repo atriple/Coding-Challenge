@@ -6,3 +6,4 @@ Most of them probably will be written in Javascript.
 ## TODO
 - [ ] Imagescrapper for General Website with Python
 - [ ] MATLab Optimization Script (especially Nonlinear Programming)
+- [ ] Auto-Bookmark/Indexing/ToC with Python

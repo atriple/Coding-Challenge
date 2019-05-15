@@ -5,5 +5,5 @@ Most of them probably will be written in Javascript or Python
 
 ## Completed List
 
-- (Python Optimization)[https://github.com/atriple/Coding-Challenge/tree/master/Python-Optimization]
-- (MATLAb Assignment)[https://github.com/atriple/Coding-Challenge/tree/master/MATLab-Assignment]
+- [Python Optimization](https://github.com/atriple/Coding-Challenge/tree/master/Python-Optimization)
+- [MATLAb Assignment](https://github.com/atriple/Coding-Challenge/tree/master/MATLab-Assignment)

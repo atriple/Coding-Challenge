@@ -13,6 +13,10 @@ function animateForm() {
                 console.log(currInput.value);
                 activateForm(currForm, nextForm);
             }
+
+            currForm.addEventListener('animationend', () => {
+                currForm.style.animation = "";
+            });
         });
     });
 }
@@ -20,6 +24,7 @@ function animateForm() {
 function validateUser(user) {
     if (user.value.length < 6) {
         error("crimson");
+        user.parentElement.style.animation = "shake 0.5s ease";
         console.log("Need more characters");
     } 
     else {

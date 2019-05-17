@@ -1,3 +1,4 @@
+# Use v1b instead of this!
 from random import shuffle
 import csv
 
